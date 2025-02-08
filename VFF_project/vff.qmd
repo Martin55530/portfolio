@@ -761,7 +761,7 @@ hjemmekampe_datoer <- format(superstats_vff$dato, "%Y-%m-%d")
 base_url <- "https://dmigw.govcloud.dk/v2/"
 info_url <- "metObs/collections/observation/items?"
 station_id <- "stationId=06060"  # Identifikator for vejrstationen
-api_key <- "&api-key=8c762424-f683-4ad0-acea-197dc19ff258"  # API-nøgle
+api_key <- "INDSÆT_EGEN_API_KEY_HER"  # API-nøgle
 
 # ------------------------------------------------------------------------------
 # Funktion til at konstruere forespørgsels-URL
