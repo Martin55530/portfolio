@@ -4,10 +4,7 @@ subtitle: ""
 
 date: "06-01-2025"
 author:
-  - "Line A. Adolph"
-  - "Maria B. A. Hitz"
-  - "Martin Bindner"
-  - "Abdikadir A. M. H. Omar"
+  - "Udviklet i samarbejde med tre andre studerende"
   
 format: 
   pdf:
@@ -64,12 +61,11 @@ pacman::p_load("tidyverse", "tinytex")
 \vspace{1.5cm}
 
 {\large \textbf{Forfattere:}}\\
-Line A. Adolph, Maria B. A. Hitz, Martin Bindner, Abdikadir A. M. H. Omar
+Udviklet i samarbejde med tre andre studerende
 
 \vspace{1cm}
 
 {\large \textbf{1. interne eksamensprojekt}} \\
-Vejleder: Lotte S. Kronbæk
 
 \vspace{2cm}
 
