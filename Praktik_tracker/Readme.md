@@ -20,7 +20,7 @@ Et personligt værktøj udviklet i R og Shiny til at holde styr på praktikansø
 
 | Dashboard | Opfølgning | Kalender |
 |----------|------------|----------|
-| ![Dashboard](img/dashboard.png) | ![Opfølgning](img/opfoelgning.png) | ![Kalender](img/kalender.png) |
+| ![Login](img/login.png) | ![Leaflet map](img/map.png) | ![ansøgninger](img/ansøgninger.png) |
 
 > Flere billeder og evt. demo-video kommer snart...
 
