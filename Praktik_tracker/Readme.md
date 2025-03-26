@@ -2,6 +2,8 @@
 
 Et personligt værktøj udviklet i R og Shiny til at holde styr på praktikansøgninger, mails og opfølgninger. Appen er bygget til at skabe overblik og sikre rettidig opfølgning – og har været et centralt værktøj i min egen praktikproces.
 
+Screenshots er baseret på dummy data og viser ikke reelle virksomhedsinformationer.
+
 ## 🧩 Funktioner
 - Dynamisk dashboard med status og statistik
 - Google Sheets-integration til lagring og opdatering
