@@ -19,7 +19,7 @@ Et personligt værktøj udviklet i R og Shiny til at holde styr på praktikansø
 ## 📸 Screenshots
 
 | Login page | Kort | Ansøgninger | Indtast ny ansøgning | Svarstatistik | Brancheoverblik | Opfølgning |
-|----------|------------|----------|
+
 | ![Login](img/login.png) | ![Kort](img/map.png) | ![Ansøgninger](img/alle.png) | ![Indtast ny ansøgning](img/ansøgninger.png) | ![Svarstatistik](img/statistik.png) |![Brancheoverblik](img/brancheoverblik.png) | ![Opfølgning](img/opfølgning.png) |
 
 > Flere billeder og evt. demo-video kommer snart...
