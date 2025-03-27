@@ -20,9 +20,26 @@ Screenshots er baseret på dummy data og viser ikke reelle virksomhedsinformatio
 
 ## 📸 Screenshots
 
-| Login page | Kort | Ansøgninger | Indtast ny ansøgning | Svarstatistik | Brancheoverblik | Opfølgning |
+Login page
+![Login](img/login.png)
 
-![Login](img/login.png)  ![Kort](img/map.png)  ![Ansøgninger](img/alle.png)  ![Indtast ny ansøgning](img/ansøgninger.png)  ![Svarstatistik](img/statistik.png) ![Brancheoverblik](img/brancheoverblik.png)  ![Opfølgning](img/opfølgning.png) 
+Kort 
+![Kort](img/map.png)
+
+Nuværende ansøgninger 
+![Ansøgninger](img/alle.png)  
+
+Ny ansøgning 
+![Indtast ny ansøgning](img/ansøgninger.png)  
+
+Svarstatistik 
+![Svarstatistik](img/statistik.png) 
+
+Brancheoverblik 
+![Brancheoverblik](img/brancheoverblik.png)  
+
+Opfølgning 
+![Opfølgning](img/opfølgning.png) 
 
 > Flere billeder og evt. demo-video kommer snart...
 
